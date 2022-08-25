@@ -93,8 +93,8 @@ IDEs/Editors:
 
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=ToanNCK&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ToanNCK&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ToanNCK&theme=moltack&show_icons=true)](https://github.com/ToanNCK/github-readme-stats)
 
-[![ToanNCK top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ToanNCK&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![ToanNCK top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ToanNCK&theme=moltack&show_icons=true)](https://github.com/ToanNCK/github-readme-stats)
 
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=ToanNCK&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=ToanNCK&theme=moltack&show_icons=true)](https://github.com/ToanNCK/github-readme-streak-stats)
