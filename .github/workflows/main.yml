@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: abhisheknaiidu/todoist-readme@master
+      - uses: ToanNCK/todoist-readme@master
         with:
-          TODOIST_API_KEY: ${{ secrets.39d025bc3b2a8fee7ccef0495f2364c463da431a }}
+          TODOIST_API_KEY: ${{ 39d025bc3b2a8fee7ccef0495f2364c463da431a }}
           PREMIUM: ""
