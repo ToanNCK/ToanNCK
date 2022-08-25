@@ -6,7 +6,7 @@
 <!-- TODO-IST:START -->
 <!-- TODO-IST:END -->
 
-- 🌱 I’m currently learning **Thuy Loi University**
+- 🌱 I’m currently learning **Thuy Loi University** 
 
 - 📫 How to reach me **toannck32@wru.vn**
 
