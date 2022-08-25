@@ -97,6 +97,6 @@ IDEs/Editors:
 
 [![ToanNCK top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ToanNCK&theme=moltack&show_icons=true)](https://github.com/ToanNCK/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ToanNCK&repo=github-readme-stats)](https://github.com/ToanNCK/HiepHoiMiaDuongWebpack)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ToanNCK&repo=HiepHoiMiaDuongWebpack)](https://github.com/ToanNCK/HiepHoiMiaDuongWebpack)
 
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=ToanNCK&theme=moltack&show_icons=true)](https://github.com/ToanNCK/github-readme-streak-stats)
