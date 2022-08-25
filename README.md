@@ -101,4 +101,4 @@ IDEs/Editors:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ToanNCK&repo=react-authentication-example&theme=gruvbox_light )](https://github.com/ToanNCK/react-authentication-example)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ToanNCK&repo=AdminLTE.MVC&theme=gruvbox_light )](https://github.com/ToanNCK/AdminLTE.MVC)
 
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=ToanNCK&theme=moltack&show_icons=true)](https://github.com/ToanNCK/github-readme-streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ToaNCK&theme=horizon&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
