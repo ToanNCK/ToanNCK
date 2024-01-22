@@ -30,3 +30,5 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ToanNCK&theme=2077&utcOffset=8)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ToanNCK&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+
+<a href="https://app.daily.dev/toannck"><img src="https://api.daily.dev/devcards/08a7ded091ff4c5281944617098caa0e.png?r=gxl" width="400" alt="ToanNck's Dev Card"/></a>
