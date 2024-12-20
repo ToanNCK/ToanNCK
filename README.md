@@ -31,4 +31,4 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ToanNCK&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 
-<a href="https://app.daily.dev/toannck"><img src="https://api.daily.dev/devcards/08a7ded091ff4c5281944617098caa0e.png?r=gxl" width="300" alt="ToanNck's Dev Card"/></a>
+<a href="https://app.daily.dev/toannck"><img src="https://api.daily.dev/devcards/v2/Cj1uOdJklLgLtzUd0n0xK.png?r=68h&type=default" width="356" alt="ToanNck's Dev Card"/></a>
